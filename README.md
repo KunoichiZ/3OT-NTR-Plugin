@@ -32,7 +32,6 @@ Just some notes to be aware of on the Modify House cheats:
 * Mansion house exteriors work with regular Japanese/Tropical/Country houses interiors. 
 
 ## How to Use This Plugin
-## How to Use This Plugin
 
 ### What you need
 * A 3DS (n3DS, o3DS, or 2DS) system with CFW (custom firmware). If you do not have custom firmware and your system version is on 11.2.0-35 or lower, follow [Plailect's A9LH Guide](https://3ds.guide) to get CFW.
