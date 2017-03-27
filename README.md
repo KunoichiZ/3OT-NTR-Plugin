@@ -48,7 +48,7 @@ Just some notes to be aware of on the Modify House cheats:
 6. Install the BootNTR Selector CIA with FBI (or any CIA installer of your choice).
 7. Launch BootNTR Selector after it is done installing and use the default settings.
 8. Follow the instructions onscreen.
-9. For this plugin, it doesn't matter which version of NTR you choose (3.2, 3.3, or 3.4). Choose either one and you'll be booted back into the Home Menu.
+9. Re-open BootNTR Selector. For this plugin, it doesn't matter which version of NTR you choose (3.2, 3.3, or 3.4). Choose either one and you'll be booted back into the Home Menu.
 10. Launch Story of Seasons: Trio of Towns. If you see a green flash when the Nintendo 3DS loading screen occurs, the plugin has been launched. Skip to Step 11. 
 10.1 If you do not see a green flash, do the following:
 10.1.1 Turn off your 3DS. 
