@@ -1,0 +1,131 @@
+[++Modify House++]
+
+[++Change House Exterior++]
+
+[Shack/Default]
+20794A39 00000000
+
+[Ordinary House]
+20794A39 00000001
+
+[Country House]
+20794A39 00000002
+
+[Japanese House]
+20794A39 00000003
+
+[Tropical House]
+20794A39 00000004
+
+[Big Country House]
+20794A39 00000005
+
+[Big Japanese House]
+20794A39 00000006
+
+[Big Tropical House]
+20794A39 00000007
+
+[Country Mansion]
+20794A39 00000008
+
+[Japanese Mansion]
+20794A39 00000009
+
+[Tropical Mansion]
+20794A39 0000000A
+
+[Western Mansion]
+20794A39 0000000B
+
+[Modern Japanese Mansion]
+20794A39 0000000C
+
+[Heian Mansion]
+20794A39 0000000D
+
+[Jungle Mansion]
+20794A39 0000000E
+
+[Live House Mansion]
+20794A39 0000000F
+
+[Underwater Mansion]
+20794A39 00000010
+
+[WanNyanderful Mansion]
+20794A39 00000011
+
+[Witch/Wizard Mansion]
+20794A39 00000012
+
+[Golden Mansion]
+20794A39 00000013
+
+[--]
+
+[++Change House Interior++]
+
+[Shack/Default House]
+20794A3A 00000000
+
+[Ordinary House]
+20794A3A 00000001
+
+[Country House]
+20794A3A 00000002
+
+[Japanese House]
+20794A3A 00000003
+
+[Tropical House]
+20794A3A 00000004
+
+[Big Country House]
+20794A3A 00000005
+
+[Big Japanese House]
+20794A3A 00000006
+
+[Big Tropical House]
+20794A3A 00000007
+
+[Country Mansion]
+20794A3A 00000008
+
+[Japanese Mansion]
+20794A3A 00000009
+
+[Tropical Mansion]
+20794A3A 0000000A
+
+[Western Mansion]
+20794A3A 0000000B
+
+[Modern Japanese Mansion]
+20794A3A 0000000C
+
+[Heian Mansion]
+20794A3A 0000000D
+
+[Jungle Mansion]
+20794A3A 0000000E
+
+[Live House Mansion]
+20794A3A 0000000F
+
+[Underwater Mansion]
+20794A3A 00000010
+
+[WanNyanderful Mansion]
+20794A3A 00000011
+
+[Witch/Wizard Mansion]
+20794A3A 00000012
+
+[Golden Mansion]
+20794A3A 00000013
+
+[--]
+
+[--]

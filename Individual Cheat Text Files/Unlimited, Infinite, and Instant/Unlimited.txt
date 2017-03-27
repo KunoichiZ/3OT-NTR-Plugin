@@ -1,0 +1,9 @@
+[++Unlimited++]
+
+[Unlimited Stamina]
+00794A14 2710999A
+
+[Unlimited Max Capacity Watering Can (Fixed)]
+007BADB8 FF041964
+
+[--]
