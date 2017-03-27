@@ -32,7 +32,28 @@ Just some notes to be aware of on the Modify House cheats:
 * Mansion house exteriors work with regular Japanese/Tropical/Country houses interiors. 
 
 ## How to Use This Plugin
-Coming soon!
+## How to Use This Plugin
+
+### What you need
+* A 3DS (n3DS, o3DS, or 2DS) system with CFW (custom firmware). If you do not have custom firmware and your system version is on 11.2.0-35 or lower, follow [Plailect's A9LH Guide](https://3ds.guide) to get CFW.
+* A US/NA copy of Story of Seasons: Trio of Towns
+* [BootNTR Selector](https://gbatemp.net/threads/release-bootntr-selector.432911/).
+* A CIA installer (such as FBI). If you follow Plailect's A9LH Guide, you will already have a CIA installer.
+* The [latest version](https://github.com/KunoichiZ/3OT-NTR-Plugin/releases) of the plugins
+
+1. Move one of the BootNTR Selector CIAs to your 3DS's SD card. You do not need to use either of the Mode 3 CIAs. It does not matter which CIA you choose to install. They all do the same thing.
+2. Make a folder called plugin on the root of your SD card. 
+3. Download the latest version of the plugin and extract it. 
+4. In the latest version of the plugin, there should be a folder called 000400000019F500. Move that folder to your plugin folder.
+5. Put your SD card back into your system and turn it on.
+6. Install the BootNTR Selector CIA with FBI (or any CIA installer of your choice).
+7. Launch BootNTR Selector after it is done installing and use the default settings.
+8. Follow the instructions onscreen.
+9. For this plugin, it doesn't matter which version of NTR you choose (3.2, 3.3, or 3.4). Choose either one and you'll be booted back into the Home Menu.
+10. Launch Story of Seasons: Trio of Towns. If you see a green flash when the Nintendo 3DS loading screen occurs, the plugin has been launched. 
+11. Open your save file. Once you see your character, press Select and enable the cheats you want with A. Press B to go back to your game.
+12. ???
+13. Profit!
 
 ## Credits
 * [KariRaquan](https://gbatemp.net/members/kariraquan.383241/) on GBAtemp for master text file. You can find the thread for the NTR plugin [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/).
