@@ -36,4 +36,4 @@ Coming soon!
 ## Credits
 * [KariRaquan](https://gbatemp.net/members/kariraquan.383241/) on GBAtemp for master text file. You can find the thread for the NTR plugin [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/).
 * [Nanquitas](https://gbatemp.net/members/nanquitas.372709/) on GBAtemp for [NTR Plugin Manager](https://gbatemp.net/threads/release-ntr-plugin-manager.457613/).
-* meganegasan, link0188 ([Bahamut0188]() on GBAtemp), pongozila, Legarad, and Nido on Fort42.
+* meganegasan, link0188 ([Bahamut0188](https://gbatemp.net/members/bahamut0188.389322/) on GBAtemp), pongozila, Legarad, and Nido on Fort42.
