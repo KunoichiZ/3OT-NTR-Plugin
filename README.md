@@ -5,6 +5,8 @@
 This 3DS NTR plugin was made with NTR Plugin Manager from cheats obtained from [Fort42](http://www.fort42.com/gateshark/game1945/).
 
 ### Cheats in this Plugin
+* Max Gold
+* 900k Gold
 * Cycle Items 
 * 5 Stars w/o x99 
 * x99 Items in Backpack 
@@ -18,8 +20,9 @@ This 3DS NTR plugin was made with NTR Plugin Manager from cheats obtained from [
 * Modify House 
 * Change Gender (Fixed) 
 * Fantastic Livestock (Fixed) 
+* Change coat, stress, and product level for each individual livestock
 * Instant Field Growth 
-* Unlimited stamina 
+* Unlimited stamina (Updated to include all missing hearts)
 * Unlimited water in Watering Can 
 * Infinite mining 
 * Have All Food Buffs (w/sped up time and w/slowed time)
