@@ -6,7 +6,7 @@ This 3DS NTR plugin was made with NTR Plugin Manager from cheats obtained from [
 
 ### Cheats in this Plugin
 * Max Gold
-* 900k Gold
+* 9000k Gold
 * Cycle Items 
 * 5 Stars w/o x99 
 * x99 Items in Backpack 

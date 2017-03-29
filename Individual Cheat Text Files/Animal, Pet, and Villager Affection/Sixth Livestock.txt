@@ -1,0 +1,42 @@
+[++Sixth Livestock++]
+
+[Product 1 QTY]
+0079A1CD 00000000
+
+[Product 6 QTY]
+0079A1CD 00000001
+
+[Product Lv. D]
+0079A1CE 000001F4
+
+[Product Lv. C]
+0079A1CE 00000258
+
+[Product Lv. B]
+0079A1CE 00000320
+
+[Product Lv. A]
+0079A1CE 000003B6
+
+[Product Lv. S]
+0079A1CE 000003e8
+
+[Zero Stress]
+0079A1BC 00000000
+
+[Coat Lv. D]
+0079A1CA 000001F4
+
+[Coat Lv. C]
+0079A1CA 00000258
+
+[Coat Lv. B]
+0079A1CA 00000320
+
+[Coat Lv. A]
+0079A1CA 000003B6
+
+[Coat Lv. S]
+0079A1CA 000003e8
+
+[--]
