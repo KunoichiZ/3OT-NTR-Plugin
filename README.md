@@ -15,6 +15,7 @@ This 3DS NTR plugin was made with NTR Plugin Manager from cheats obtained from [
 * All clothes, hats, and glasses 
 * Disable all clothes, hats, and glasses 
 * Villager FP
+* Villager FP Modifier
 * Max Pet Affection 
 * Max Horse Affection 
 * Modify House 
