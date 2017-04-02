@@ -14,15 +14,15 @@ This 3DS NTR plugin was made with NTR Plugin Manager from cheats obtained from [
 * Hour Control (Y+Up/Down) (Also has the original hour modifier) 
 * All clothes, hats, and glasses 
 * Disable all clothes, hats, and glasses 
-* Villager FP
+* Max Villager FP
 * Villager FP Modifier
 * Max Pet Affection 
 * Max Horse Affection 
-* Modify House 
+* Modify House Exterior and Interior
 * Change Gender (Fixed) 
 * Fantastic Livestock (Fixed) 
 * Change coat, stress, and product level for each individual livestock
-* Instant Field Growth 
+* Instant Field Growth (Y)
 * Unlimited stamina (Updated to include all missing hearts)
 * Unlimited water in Watering Can 
 * Infinite mining 

@@ -6,19 +6,19 @@
 [Ordinary House]
 20794A3A 00000001
 
-[Country House]
+[Western House]
 20794A3A 00000002
 
-[Japanese House]
+[Eastern House]
 20794A3A 00000003
 
 [Tropical House]
 20794A3A 00000004
 
-[Big Country House]
+[Big Western House]
 20794A3A 00000005
 
-[Big Japanese House]
+[Big Eastern House]
 20794A3A 00000006
 
 [Big Tropical House]
@@ -27,7 +27,7 @@
 [Country Mansion]
 20794A3A 00000008
 
-[Japanese Mansion]
+[Eastern Mansion]
 20794A3A 00000009
 
 [Tropical Mansion]
@@ -36,28 +36,28 @@
 [Western Mansion]
 20794A3A 0000000B
 
-[Modern Japanese Mansion]
+[Modern Eastern Mansion]
 20794A3A 0000000C
 
-[Heian Mansion]
+[Ancient Eastern Mansion]
 20794A3A 0000000D
 
 [Jungle Mansion]
 20794A3A 0000000E
 
-[Live House Mansion]
+[Music Club Mansion]
 20794A3A 0000000F
 
-[Underwater Mansion]
+[Ocean Mansion]
 20794A3A 00000010
 
-[WanNyanderful Mansion]
+[Pet Paradise Mansion]
 20794A3A 00000011
 
-[Witch/Wizard Mansion]
+[Magical Mansion]
 20794A3A 00000012
 
-[Golden Mansion]
+[El Dorado Mansion]
 20794A3A 00000013
 
 [--]
