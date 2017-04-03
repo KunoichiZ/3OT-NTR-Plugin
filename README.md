@@ -42,7 +42,7 @@ Just some notes to be aware of on the Modify House cheats:
 * A US/NA copy of Story of Seasons: Trio of Towns
 * [BootNTR Selector](https://gbatemp.net/threads/release-bootntr-selector.432911/).
 * A CIA installer (such as FBI). If you follow Plailect's A9LH Guide, you will already have a CIA installer.
-* The [latest version](https://github.com/KunoichiZ/3OT-NTR-Plugin/releases) of the plugins
+* The [latest version](https://github.com/KunoichiZ/3OT-NTR-Plugin/releases) of the plugin.
 
 1. Move one of the BootNTR Selector CIAs to your 3DS's SD card. You do not need to use either of the Mode 3 CIAs. It does not matter which CIA you choose to install. They all do the same thing.
 2. Make a folder called plugin on the root of your SD card. 
