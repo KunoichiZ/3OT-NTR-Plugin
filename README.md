@@ -7,7 +7,7 @@ This 3DS NTR plugin was made with NTR Plugin Manager from cheats obtained from [
 ### Cheats in this Plugin
 * Max Gold
 * 9000k Gold
-* Cycle Items (B+Up/Down). You can find a list of items in the order that they appear [here](), however it's separated by category. Thanks to [alianpe](https://gbatemp.net/members/alianpe.403428/) for the list.
+* Cycle Items (B+Up/Down). You can find a list of items in the order that they appear [here](https://www.dropbox.com/s/fdzhker05clfcaa/Items%20List.xlsx?dl=0), however it's separated by category. Thanks to [alianpe](https://gbatemp.net/members/alianpe.403428/) for the list.
 * 5 Stars w/o x99 
 * x99 Items in Backpack 
 * 5 Stars with x99 Backpack items
