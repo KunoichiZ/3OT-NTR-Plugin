@@ -40,7 +40,7 @@ Just some notes to be aware of on the Modify House cheats:
 ## How to Use This Plugin
 
 ### What you need
-* A 3DS (n3DS, o3DS, or 2DS) system with CFW (custom firmware). If you do not have custom firmware and your system version is on 11.2.0-35 or lower, follow [Plailect's A9LH Guide](https://3ds.guide) to get CFW.
+* A 3DS (n3DS, o3DS, or 2DS) system with CFW (custom firmware). If you do not have custom firmware and your system version is on 11.3.0-36 or lower, follow [Plailect's A9LH Guide](https://3ds.guide) to get CFW.
 * A US/NA copy of Story of Seasons: Trio of Towns
 * [BootNTR Selector](https://gbatemp.net/threads/release-bootntr-selector.432911/).
 * A CIA installer (such as FBI). If you follow Plailect's A9LH Guide, you will already have a CIA installer.
