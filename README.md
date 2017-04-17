@@ -1,3 +1,5 @@
+![Story of Seasons: Trio of Towns NTR Plugin](https://github.com/KunoichiZ/3OT-NTR-Plugin/blob/master/assets/story-of-seasons-trio-of-towns-boart-656x584.png)
+
 # 3OT-NTR-Plugin
 3DS NTR Plugin for Story of Seasons: Trio of Towns
 
@@ -43,13 +45,14 @@ Just some notes to be aware of on the Modify House cheats:
 * [BootNTR Selector](https://gbatemp.net/threads/release-bootntr-selector.432911/).
 * A CIA installer (such as FBI). If you follow Plailect's A9LH Guide, you will already have a CIA installer.
 * The [latest version](https://github.com/KunoichiZ/3OT-NTR-Plugin/releases) of the plugin.
+* The [latest version](https://github.com/KunoichiZ/3OT-plugin-downloader/releases) of the 3OT Plugin Downloader.
 
 1. Move one of the BootNTR Selector CIAs to your 3DS's SD card. You do not need to use either of the Mode 3 CIAs. It does not matter which CIA you choose to install. They all do the same thing.
-2. Make a folder called plugin on the root of your SD card. 
-3. Download the latest version of the plugin and extract it. 
-4. In the latest version of the plugin, there should be a folder called 000400000019F500. Move that folder to your plugin folder.
-5. Put your SD card back into your system and turn it on.
-6. Install the BootNTR Selector CIA with FBI (or any CIA installer of your choice).
+2. Move the 3OT Plugin Downloader CIA to your SD card.
+3. Put your SD card back into your system and turn it on.
+4. Install the BootNTR Selector CIA with FBI (or any CIA installer of your choice).
+5. Install the 3OT Plugin Downloader CIA with the same CIA installer.
+6. Launch the 3OT Plugin Downloader and Press A to download the plugin. It will be placed in SD:/plugin/000400000019F500. 
 7. Launch BootNTR Selector after it is done installing and use the default settings.
 8. Follow the instructions onscreen.
 9. Re-open BootNTR Selector. For this plugin, it doesn't matter which version of NTR you choose (3.2, 3.3, or 3.4). Choose either one and you'll be booted back into the Home Menu.
