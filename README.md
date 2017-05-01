@@ -30,6 +30,23 @@ This 3DS NTR plugin was made with NTR Plugin Manager from cheats obtained from [
 * Infinite mining 
 * Have All Food Buffs (w/sped up time and w/slowed time)
 * Year, Day, and Season Modifiers 
+* Increase/Decrease Gold Amount
+** L + UP = +50
+** L + DOWN = -50
+** L + RIGHT = +1000
+** L + LEFT = -1000
+* Max Town-Link Points (This doesn't give you the ranks, only points to increase the rank)
+* Max Pet Stats
+* Max Pet Level
+* Wild Animals Max FP + individual animals
+* Always 100 collected bugs
+* 3.000 Fish
+* Freeze Time
+* Hour Control
+** Y + UP = +1
+** Y + DOWN = -1
+** Y + RIGHT = +3
+** Y + LEFT = -3
 
 Just some notes to be aware of on the Modify House cheats:
 * Shack/Default house exterior keeps the Shack/Default interior, no matter which interior you choose.
@@ -71,3 +88,4 @@ Coming soon!
 * [KariRaquan](https://gbatemp.net/members/kariraquan.383241/) on GBAtemp for master text file. You can find the thread for the NTR plugin [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/).
 * [Nanquitas](https://gbatemp.net/members/nanquitas.372709/) on GBAtemp for [NTR Plugin Manager](https://gbatemp.net/threads/release-ntr-plugin-manager.457613/).
 * meganegasan, link0188 ([Bahamut0188](https://gbatemp.net/members/bahamut0188.389322/) on GBAtemp), pongozila, Legarad, and Nido on Fort42.
+* [vitorTC](https://gbatemp.net/members/vitortc.223144/) on GBAtemp. Cheats located [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/page-15#post-7280195) and [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/page-15#post-7280933)
