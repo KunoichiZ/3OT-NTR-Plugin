@@ -3,6 +3,8 @@
 # 3OT-NTR-Plugin
 3DS NTR Plugin for Story of Seasons: Trio of Towns
 
+Title ID for the game: 000400000019F500
+
 ## Description of Plugin
 This 3DS NTR plugin was made with NTR Plugin Manager from cheats obtained from [Fort42](http://www.fort42.com/gateshark/game1945/).
 
@@ -30,11 +32,7 @@ This 3DS NTR plugin was made with NTR Plugin Manager from cheats obtained from [
 * Infinite mining 
 * Have All Food Buffs (w/sped up time and w/slowed time)
 * Year, Day, and Season Modifiers 
-* Increase/Decrease Gold Amount
-** L + UP = +50
-** L + DOWN = -50
-** L + RIGHT = +1000
-** L + LEFT = -1000
+* Increase/Decrease Gold Amount (L + UP = +50, L + DOWN = -50, L + RIGHT = +1000, L + LEFT = -1000) 
 * Max Town-Link Points (This doesn't give you the ranks, only points to increase the rank)
 * Max Pet Stats
 * Max Pet Level
@@ -42,11 +40,7 @@ This 3DS NTR plugin was made with NTR Plugin Manager from cheats obtained from [
 * Always 100 collected bugs
 * 3.000 Fish
 * Freeze Time
-* Hour Control
-** Y + UP = +1
-** Y + DOWN = -1
-** Y + RIGHT = +3
-** Y + LEFT = -3
+* Hour Control (Y + UP = +1, Y + DOWN = -1, Y + RIGHT = +3, Y + LEFT = -3)
 
 Just some notes to be aware of on the Modify House cheats:
 * Shack/Default house exterior keeps the Shack/Default interior, no matter which interior you choose.

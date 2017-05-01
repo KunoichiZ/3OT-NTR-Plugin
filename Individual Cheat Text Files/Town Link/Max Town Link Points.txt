@@ -1,0 +1,6 @@
+[Max Town-Link Points]
+C0000000 00000003
+107CAFB0 00002710
+DC000000 0000000C
+D2000000 00000000
+{This don't give you ranks, only points to increase the rank}

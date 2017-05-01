@@ -1,0 +1,2 @@
+[Always 100 collected bugs]
+207C3B50 00000064
