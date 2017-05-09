@@ -41,6 +41,11 @@ This 3DS NTR plugin was made with NTR Plugin Manager from cheats obtained from [
 * 3.000 Fish
 * Freeze Time
 * Hour Control (Y + UP = +1, Y + DOWN = -1, Y + RIGHT = +3, Y + LEFT = -3)
+* Max Upgraded Tools
+* All Farm Circles x99
+* All Your Farm Circles x99
+* All Farm Circles x1
+* All Your Farm Circles x1
 
 Just some notes to be aware of on the Modify House cheats:
 * Shack/Default house exterior keeps the Shack/Default interior, no matter which interior you choose.
@@ -81,4 +86,4 @@ Coming soon!
 * [KariRaquan](https://gbatemp.net/members/kariraquan.383241/) on GBAtemp for master text file. You can find the thread for the NTR plugin [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/).
 * [Nanquitas](https://gbatemp.net/members/nanquitas.372709/) on GBAtemp for [NTR Plugin Manager](https://gbatemp.net/threads/release-ntr-plugin-manager.457613/).
 * meganegasan, link0188 ([Bahamut0188](https://gbatemp.net/members/bahamut0188.389322/) on GBAtemp), pongozila, Legarad, and Nido on Fort42.
-* [vitorTC](https://gbatemp.net/members/vitortc.223144/) on GBAtemp. Cheats located [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/page-15#post-7280195) and [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/page-15#post-7280933)
+* [vitorTC](https://gbatemp.net/members/vitortc.223144/) on GBAtemp. Cheats located [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/page-15#post-7280195), [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/page-15#post-7280933), [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/page-16#post-7283972), and [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/page-16#post-7285394).
