@@ -53,6 +53,13 @@ Just some notes to be aware of on the Modify House cheats:
 * Big Japanese/Country/Tropical house exteriors do work with the mansion interiors.
 * Mansion house exteriors work with regular Japanese/Tropical/Country houses interiors. 
 
+Some notes to be aware of on the Farm Circle Cheats:
+Notes: 
+* When you have these cheats activated disable them when you want to arrange your farm.
+* The game will freeze on a black screen and you'll have to restart so make sure you SAVE BEFOREHAND.
+* It WON'T happen all the time just on OCCASION. It also happens in the Japanese game too.
+
+
 ## How to Use This Plugin
 
 ### What you need
@@ -83,7 +90,7 @@ Just some notes to be aware of on the Modify House cheats:
 Coming soon!
 
 ## Credits
-* [KariRaquan](https://gbatemp.net/members/kariraquan.383241/) on GBAtemp for master text file. You can find the thread for the NTR plugin [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/).
+* [KariRaquan](https://gbatemp.net/members/kariraquan.383241/) on GBAtemp for the original master text file and for testing the cheats. You can find the thread for the NTR plugin [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/).
 * [Nanquitas](https://gbatemp.net/members/nanquitas.372709/) on GBAtemp for [NTR Plugin Manager](https://gbatemp.net/threads/release-ntr-plugin-manager.457613/).
 * meganegasan, link0188 ([Bahamut0188](https://gbatemp.net/members/bahamut0188.389322/) on GBAtemp), pongozila, Legarad, and Nido on Fort42.
 * [vitorTC](https://gbatemp.net/members/vitortc.223144/) on GBAtemp. Cheats located [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/page-15#post-7280195), [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/page-15#post-7280933), [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/page-16#post-7283972), and [here](https://gbatemp.net/threads/story-of-seasons-trio-of-towns-ntr-plugin.463287/page-16#post-7285394).
