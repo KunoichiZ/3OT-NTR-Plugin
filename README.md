@@ -1,9 +1,13 @@
 ![Story of Seasons: Trio of Towns NTR Plugin](https://github.com/KunoichiZ/3OT-NTR-Plugin/blob/master/assets/story-of-seasons-trio-of-towns-boart-656x584.png)
 
 # 3OT-NTR-Plugin
-3DS NTR Plugin for Story of Seasons: Trio of Towns
+3DS NTR Plugin for Story of Seasons: Trio of Towns (USA)
 
 Title ID for the game: 000400000019F500
+
+## To do: 
+* Update README.md
+* Add v1.1 cheats found so far and give proper credits
 
 ## Description of Plugin
 This 3DS NTR plugin was made with NTR Plugin Manager from cheats obtained from [Fort42](http://www.fort42.com/gateshark/game1945/).
